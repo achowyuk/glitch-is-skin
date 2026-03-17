@@ -15,7 +15,7 @@ Moving the joystick in different directions triggers unique visual distortions o
 - **RIGHT**: Blocky digital jitter.
 - **DIAGONALS**: Randomized combinations of the above.
 
-### 2. Persistent Swarm (Shed Skins)
+### 2. Silhouette Swarm
 - **Chain Formation**: Every time the joystick changes direction, a new 1/3 scale "mini-silhouette" is born.
 - **Bird Flight Pattern**: The mini-clones follow each other in a fluid, sensual chain, trailing the user's joystick movements across the entire screen.
 - **Ghostly Trails**: Clones leave behind spectral traces of their motion, creating a dreamy, layered atmosphere.
@@ -26,14 +26,14 @@ Moving the joystick in different directions triggers unique visual distortions o
 - **Collision**: Navigating the swarm directly through the main silhouette for 2 seconds triggers an intense glow.
 - **Supernova Bloom**: During assembly or collision, the entire swarm and the main avatar emit an extreme, triple-layered pulsating aura of blue-white light.
 
-### 4. The Rupture (SW Button)
+### 4. Rupture and Reconstitution (SW Button)
 - **Explosion**: Pressing the joystick button triggers a violent, screen-filling rupture (alternating between "Sand Dissolve" and "Confetti Burst").
 - **Peak Glow**: At the height of the explosion, a blinding white flare occurs.
 - **Eased Rebirth**: Following the rupture, the particles reconstitute back to the center silhouette with a "slow-to-fast" motion, resetting the swarm logic.
 
 ### 5. Dynamic Dreamscape Backgrounds
 - **Rotation**: The background cycles through 40+ pixelated assets, changing with every new joystick adjustment.
-- **Skin-to-Black**: Using a custom heuristic, any "human skin" detected in the background images is forcibly turned to jet black, creating voids within the environment.
+- **Skin-to-JetBlack**: Using a custom heuristic, any "human skin" detected in the background images is forcibly turned to jet black, creating voids within the environment.
 - **Atmosphere**: The edges of the screen feature a constant dreamy blue haze and "sparkle" dots.
 
 ## Hardware
