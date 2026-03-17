@@ -3,9 +3,7 @@
 **Inspired by Legacy Russell's "Glitch Feminism"**
 
 ## Project Concept
-*GLITCH IS SKIN* is a physical computing art project that explores the body as a site of potential and becoming. Inspired specifically by the "Glitch is Skin" chapter of Legacy Russell's *Glitch Feminism*, this project uses a physical joystick to simulate technological ruptures. In this framework, a break or "glitch" in the surface is not an error, but a portal—a passageway toward a truer, fluid self.
-
-The central avatar is a faceless, pointillist humanoid, caught between states of digital coherence and abstraction. As the user interacts via the joystick, they enact "glitches" that shed old skins and reveal new modes of self-presentation.
+GLITCH IS SKIN is a physical computing art project that explores digital "skins" as representational sites of potential and becoming. Inspired by the "Glitch is Skin" chapter of Legacy Russell's Glitch Feminism. The central avatar is a faceless, pointillist, angelic silhouette, caught between states of digital coherence and interference. The interface uses a physical joystick to simulate technological ruptures. In this framework, surface collisions and trailing gestures, or "glitches", caused by silhouette clones are not errors, but portals—passageways towards revealing new layers of a truer self. A joystick down-click activates a state of complete undoing, followed by reconstitution. 
 
 ## Main Interaction Features
 
